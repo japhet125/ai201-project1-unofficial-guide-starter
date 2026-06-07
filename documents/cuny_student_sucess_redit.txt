@@ -1,0 +1,75 @@
+A lot of students joininig CS including me !!! Will it be worth it till the end
+hey as caption says a lot of people in CS will they all be will be able to find jobs in these sitution including me what is ur take onit
+
+
+
+
+Comments Section
+[deleted]
+•
+2y ago
+Comment deleted by user
+
+
+Primary_Syllabub1310
+OP
+•
+2y ago
+It's good you have intership , it will built up for your better future but being a freshman and looking all of the job market it scares the shit out of me to either no move out of this degree
+
+6
+u/F_obats avatar
+F_obats
+•
+2y ago
+Internship are nearly impossible as most companies accept Juniors. The skill ceiling is very high so expect to learn a lot outside of your regular course work. The mathematical requirement is pretty harsh but not that bad. (Discrete, calculus,Statistics and Linear Algebra) it is a really fun major if you like solving puzzles.
+
+
+2
+Primary_Syllabub1310
+OP
+•
+2y ago
+Math don’t scare me . But i am not sure about the future i will be into will i able to get any job after my degree . As in current circumstances the market is not good for CS major .
+
+
+1
+u/F_obats avatar
+F_obats
+•
+2y ago
+Cs is a very versatile major. Data science, features engineer, Front end developer(Website), Backend(Functional programming),Full stack(Both Front and backend), IT, Cybersecurity, Machine Learning, game dev, Quants, etc. it depends on what is high in demand to be honest. For example there are more frontend devs than ML engineers. Which means more demand for ML engineering. Basically what you focus on matters. Of course these low supply concentrations are pretty hard and require struggle and time.
+
+3
+
+2 more replies
+[deleted]
+•
+2y ago
+It’s the same for most or all engineering majors. If you don’t go for interns or get experience then it’s going to be quite difficult to get a job
+
+10
+Nintendo_Pro_03
+•
+2y ago
+If you enjoy it, just major in it.
+
+
+2y ago
+It will depend on what you do to navigate yourself to break into the market. It's worth while to have an engineering path alongside your CS degree. Look at companies offering internships or associate programs - that way you can involve yourself into real world projects and obtain experience.
+
+as for jobs, it's not about signing up online and hoping for a call back - even though that still works for many. Today, it's about networking, coffee chats, engagement and portfolio improvement and finding a mentor (if possible).
+
+if you can build a website now that you can invest in as you develop over the next few years, that will separate you from the rest of the market. Employers want to know why they should invest in you. A website portfolio will set you apart. Then again, sorry to damper your experience. The Ai masters and nepotism are all at force alongside you.
+
+Before I go, toss some Ai training into your CS learning path. That'll make you ready for the job world.
+
+Good luck in your journey!
+
+1
+choopnyc
+•
+2y ago
+It's not hard to find entry level jobs. It only get harder as you aged and better technologies emerged. And you're too expensive to retain. It's always one certification after the other and one recertification next.
+
+1

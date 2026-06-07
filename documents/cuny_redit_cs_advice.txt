@@ -1,0 +1,183 @@
+CUNY CS schools, my opinion.
+There is this misconception that Hunter and CCNY are the best options for a CS degree.
+
+I am at CCNY and can say the whole program is a mess. Too many people are hyping this school as the premier cs program in CUNY, when in fact it isnt.
+
+13
+·
+21
+
+
+Comments Section
+u/SnooLemons6711 avatar
+SnooLemons6711
+•
+6y ago
+CCNY CS is hyped up because it's in the engineering school, and CCNY is the only CUNY with an engineering school.
+
+Hunter is hyped up because it's the most popular CUNY school/the one with the most students, so Hunter students tend to be well-represented. I'm at Hunter, and I'm planning on transferring to Buffalo since there's a heavy liberal arts emphasis here (taking 4 foreign languages, a bunch of diversity classes, etc.)
+
+I think Queens has the best CS program. Brooklyn is decent, John Jay is good for cybersecurity, and although Baruch doesn't have CS, I've heard good things about their Financial Math program which is somewhat of a CS and Finance/Business hybrid.
+
+In general, I think CUNY schools are mediocre for CS since the courses are outdated.
+
+
+6
+MaverickMil
+OP
+•
+6y ago
+Actually, CSI has an engineering dept that has a bunch of Columbia University Professors and is led by a Columbia university PhD engineering grad. Their electrical engineering program is better than CCNY because they have courses in nanotech which is pretty modern.
+
+
+8
+u/SnooLemons6711 avatar
+SnooLemons6711
+•
+6y ago
+Interesting. Looked up CSI's programs and turns out their engineering program is pretty decent. Also the fact that their CS program is ABET accredited is a big plus. I think CSI is overshadowed by other CUNY schools since it's a hassle to commute there if you're not from Staten Island.
+
+4
+
+1 more reply
+MaverickMil
+OP
+•
+6y ago
+Yea i noticed that too. The courses at some CUNYs are outdated. Thats why i did the interdisciplinary program. Also, City Tech just implemented a BS Data Science program.
+
+University of Buffalo CS programs are just as liberal arts like Hunter. Its just a bigger school.
+
+my tech employer didn’t care about the difference between cuny and suny. He cared about my projects, which illustrated my skills and creativity.
+
+2
+u/rz1c avatar
+rz1c
+•
+6y ago
+Agreed on the liberal arts emphasis at Hunter. Which is why people in those majors are right to hype up the school even though it gives the wrong impression that it will be have well-rounded programs no matter your major.
+
+1
+[deleted]
+•
+6y ago
+It’s kind of a clusterfuck at Hunter. There’s a few required classes here that students tell the next generation to e-permit simply because they’re taught by the same professors each semester and are a stressful mess to deal with.
+
+Currently I’m dealing with a computer architecture professor whose grading criteria is 50% of your grade is the midterm and 50% is the final. You can only do things the way she teaches (she taught us K-maps in the most counterintuitive way possible that I’ve found absolutely no sources online for) and she discourages you from reading the textbook. And she’s the only professor for this course. It’s frustrating.
+
+Baruch only has CIS though and I haven’t heard much about Queens.
+
+City is usually considered the top CS CUNY because of the heavy engineering emphasis. You guys take way more math-heavy classes than we do.
+
+
+4
+MaverickMil
+OP
+•
+6y ago
+Yea that is what i have been doing. E-permitting most of classes out of CCNY to CSI. Surprisingly, I love CSI much better and I am thinking of transferring there.
+
+CSI has smaller class sizes and broader choices of classes. I like that every Professor i had was available to talk or help. The whole department makes themselves available to students when they can. CCNY is saturated with an over abundance of students, not enough classes to graduate on time, cs professors are jaded, rude and don’t respond to emails. I have a 3.69 gpa and it will be a easier ride just to transfer to CSI and graduate with 3.8+.
+
+I heard Hunter has a hierarchy to class enrollment.
+
+
+8
+SnowCat2530
+•
+2y ago
+How are the cs profs and exams at CSI?
+
+2
+
+1 more reply
+u/Naive-Product-381 avatar
+Naive-Product-381
+•
+1y ago
+Hi!! do you know if CSI has a decent physics program?
+
+1
+[deleted]
+•
+6y ago
+I’m not sure about hierarchy, but its definitely easier to get all your classes if you have the earlier enrolment period for being in a scholar program. This is usually most felt by pre-med students every semester.
+
+I’ve never even heard of CSI, sounds like a dream.
+
+1
+
+2 more replies
+u/rz1c avatar
+rz1c
+•
+6y ago
+I know your comments are specific to the CS program, but I’m going through their ME program and it’s as much of a disaster. Not only that, I have friends in CE, EE and BME who all agree that Grove is almost comedically overrated. I’m not sure whether the reputation was a lie to begin with or if the quality of the programs took a nosedive in recent years (I’ve heard all kinds of different versions) but the bottomline is: don’t come to Grove. You’ll almost certainly waste your time.
+
+3
+u/PoiseBrand avatar
+u/PoiseBrand
+•
+Promoted
+
+Meet the New & Improved Poise Ultra Thin with GushProtect™ Zone
+Shop Now
+ad.doubleclick.net
+Clickable image which will reveal the video player: Meet the New & Improved Poise Ultra Thin with GushProtect™ Zone
+Collapse video player
+
+0:00 / 0:00
+
+
+
+
+[deleted]
+•
+2y ago
+I'm laughing and crying at the same time at the comments, i went through one of these programs and had so much academic trauma i almost quit all together to become a cop. Thankfully i had a really good physics professor that made me love coding again, and i finished through another program thanks to her recommendation letter. I cannot in all honesty recommend anyone for comp sci in any CUNY school.
+
+
+2
+ceo_of_losing
+•
+2y ago
+I literally changed majors because its so depressing
+
+1
+[deleted]
+•
+6y ago
+Comment deleted by user
+
+
+MaverickMil
+OP
+•
+6y ago
+CCNY has the same requirements for abet accreditation and based cs courses as csi. It’s selective but that doesn’t mean academic rigor or quality. I am at CCNY’s CS program and I can say from experience that it’s not the best CS program in CUNY.
+
+
+1
+[deleted]
+•
+6y ago
+Comment deleted by user
+
+
+MaverickMil
+OP
+•
+6y ago
+Again, the same recruiters that go to CCNY are the same ones that go to CSI. Many cs/engineering majors at CSI are getting recruited heavily. I have walked in to their career fair once.
+
+Also another point, don’t depend on a school to bring you opportunities. I never did and i am already working in tech as a swe. CCNY never helped me with this. I did this by myself.
+
+
+2
+[deleted]
+•
+6y ago
+Comment deleted by user
+
+
+2 more replies

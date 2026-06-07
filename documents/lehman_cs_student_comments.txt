@@ -1,0 +1,69 @@
+CS Degree at Lehman
+Hey, I'm a relatively passionate CS Major at Lehman. I live in the bronx and don't have the best commute outside of the bronx, with only really the 1-2 line close to where I live. Taking CS here currently in Lehman and I don't really feel challenged at all and it tends to lead me to being bored. I do need a degree to land a decent job to leave the Bronx (I legit hate it here but its cheap and I live w my mom) and that is my main goal, but is there another college in NYC relatively close to the Bronx worth transferring for? Or should I just stick to Lehman and land my job, then further CS elsewhere once I can move out of the bronx?
+
+I'm feeling kind of stuck on whether or not it's worth continuing Lehman because the constant Java programming for EVERYTHING!?!? the lack of speed and difficulty in most of the work, etc... I can endure this pain to get the degree but I just hope I'll be prepared for the future as a CS major and I'll be able to go far
+
+3
+·
+
+•
+1y ago
+i did cs @ csi, was not challenged. what you need to do is work on side projects youre passionate about. not only because it gives you the most experience and builds the most coding skill, but because it will be a great thing for employers to see on ur github.
+
+
+1
+malding_and_bad
+OP
+•
+1y ago
+I'm not super creative, that's my issue. I want to get into video game programming because I love the idea of creating games. I've made some baby games like pong or whatnot in highschool but I've lost all those stuff now tbh, and plus it isn't much. How could I best work on my portfolio for this kind of stuff?
+
+1
+u/digiSnek avatar
+digiSnek
+•
+1y ago
+Yeah i remember this, i was basically in the same situation a few years ago. If i were you OP i would take less classes and sighn up for a bootcamp. Lehman is a research school so it's designed to turn you into scientist not devs.
+
+
+1
+malding_and_bad
+OP
+•
+1y ago
+I was debating on just getting my bachelor's and hoping to transfer to stonybrook where I get my masters in AI/software alongside my bachelor's in math. Rn I'm working full time essentially at target while also being a full time student at Lehman and it feels good so far so
+
+
+1
+u/digiSnek avatar
+digiSnek
+•
+1y ago
+oh wow no way i used to work in target also haha. How many years have you been in CS?
+
+
+1
+malding_and_bad
+OP
+•
+1y ago
+College wise? A fair amount of years, back and forth bce of covid+life but plan to finish up my BS in Lehman. In general I've always fiddled around with programming, from an after-school program in middleschool to multiple extra-curriculum in HS+any available CS classes in my HS
+
+
+1
+u/digiSnek avatar
+digiSnek
+•
+1y ago
+well you're already this far in deff finish it, How is your math if you don't mind me asking? I ask because my career didn't really start until i started my masters. If you qualify for a really good school they will take you and honestly it was cake compared to undergrad.
+
+1
+Continue this thread
+[deleted]
+•
+1y ago
+You can try for ccny.
+
+But I think the best bet would be doing some online stuff like leetcode if you really want to challenge yourself
+
+2
