@@ -65,14 +65,14 @@
 I will use chunks of about 400–600 characters.
 
 **Overlap:**
-I will use about 75 characters of overlap between chunks.
+I will use about 60 characters of overlap between chunks.
 
 **Why these choices fit your documents:**
 Most course and professor reviews are short, opinion-based, and focused on one or two points such as workload, exams, grading, or teaching style. A 400–600 character chunk is large enough to keep a complete student comment together, but small enough to avoid mixing unrelated comments about different professors or courses. The overlap helps preserve context when a useful point is split near the boundary between two chunks.
 
 
 **Final chunk count:**
-61 chunks
+74 chunks
 
 ---
 

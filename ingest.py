@@ -2,8 +2,8 @@ from pathlib import Path
 import re
 
 DOCUMENTS_DIR = Path("documents")
-CHUNK_SIZE = 500
-OVERLAP = 75
+CHUNK_SIZE = 400
+OVERLAP = 60
 
 
 def clean_text(text):
